@@ -4,6 +4,16 @@ body {
   color: white;
 }
 
-h1 {
+.heading {
   text-align: center;
+  width: 300px;
+  position: relative;
+  right: 110px;
 }
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  width: 100px;
+}
+
